@@ -1,4 +1,6 @@
-Projet_Java_CIR2_2013
+Project_Java_CIR_2013
 =====================
 
-Gestion congés ISEN
+Projet java de fin d'année
+
+Gestion des congés
